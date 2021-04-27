@@ -1,0 +1,36 @@
+body {
+  background: #c5e1a5;
+}
+
+form {
+  width: 30%;
+
+  margin: 60px auto;
+
+  background: #efefef;
+
+  padding: 60px 120px 80px 120px;
+
+  text-align: center;
+
+  -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+}
+.users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.users ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.users li {
+  background-color: rgb(13, 98, 189);
+  color: white;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
